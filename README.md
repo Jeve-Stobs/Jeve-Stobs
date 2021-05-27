@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I can code proficiently in Python, and I know really basic JS.
+- 🔭 I can code in JS, Elixir, Python, & some C# (still learning all of them 🤪)
 - Contact - ~~Feel free to make a PR on this repo if you'd like to get in touch!~~ 
 * Discord - [~~Jeve=Stobs#1415~~ ](https://canary.discord.com)
 * Repl.it - [Jeve-Stobs](https://repl.it/@thedailypong) 
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 (The following metrics include Private Repos)
 
-![Metrics](https://github.com/Jeve-Stobs/Jeve-Stobs/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Jeve-Stobs/Jeve-Stobs/blob/main/github-metrics.svg)
