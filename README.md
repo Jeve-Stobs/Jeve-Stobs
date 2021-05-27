@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 (The following metrics include Private Repos)
 
-![Metrics]()
+![Metrics](https://github.com/Jeve-Stobs/Jeve-Stobs/blob/master/github-metrics.svg)
