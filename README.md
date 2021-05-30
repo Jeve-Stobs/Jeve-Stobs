@@ -1,4 +1,4 @@
-### Hi there!
+### 👋 Hi there!
 
 <img src="https://raw.githubusercontent.com/Jeve-Stobs/Jeve-Stobs/main/9aaa1d5723b5e20f258db26ccad93d35.gif" alt="Hello world">
 
