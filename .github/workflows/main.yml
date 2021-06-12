@@ -27,10 +27,6 @@ jobs:
           plugin_languages_ignored: TypeScript, CSS, Ruby, SCSS
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_posts: yes
-          plugin_posts_limit: 4
-          plugin_posts_source: dev.to
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_stars: yes
