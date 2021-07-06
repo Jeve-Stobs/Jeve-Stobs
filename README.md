@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 * Discord - [Jeve-Stobs#1415 ](https://canary.discord.com)
 ![Metrics](https://github.com/Jeve-Stobs/Jeve-Stobs/blob/main/github-metrics.svg)
 # I run a music bot and this is a live view of what they are listening to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eszli7hrnvlnbd287ncscgu3q&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eszli7hrnvlnbd287ncscgu3q&cover_image=true&theme=default)]
