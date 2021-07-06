@@ -5,7 +5,6 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Jeve-Stobs/count.svg" />
-  ![Metrics](https://github.com/Jeve-Stobs/Jeve-Stobs/blob/master/github-metrics.svg)
 </p>
 
 <!--
@@ -28,3 +27,4 @@ Here are some ideas to get you started:
 * Discord - [Jeve-Stobs#1415 ](https://canary.discord.com)
 # I run a music bot and this is a live view of what they are listening to:
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eszli7hrnvlnbd287ncscgu3q&cover_image=true&theme=default)
+![Metrics](https://github.com/Jeve-Stobs/Jeve-Stobs/blob/master/github-metrics.svg)
