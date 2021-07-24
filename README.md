@@ -25,7 +25,7 @@ I'm a realatively new developer but I have been interested in computers and anyt
 *in order of my comfort level*
 
 - [TypeScript/JavaScript](https://www.typescriptlang.org)
-- [Kotlin](https://kotlinlang.org/) / Java
+- [Kotlin](https://kotlinlang.org/) / [Java](https://github.com/openjdk/jdk/blob/master/doc/building.md)
 - HTML / CSS
 - C++
 - C#   
