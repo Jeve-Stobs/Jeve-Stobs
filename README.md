@@ -4,8 +4,7 @@ Hello! I'm Samuel, a 15 y/o backend/frontend developer who enjoys coding more th
 
 ##### About Me
 
-I'm a realatively new developer but I have been interested in computers and anything mechanical fron day one. I work on projects for a short amound of time and then I usually move on. My current project is a Discord music bot [Acoustic](https://github.com/acousticly). I've also made some custom Elixir + Java libraries to improve websocket response time as well as cleaner sound to client devices.
-
+I'm a relatively new developer, but I have been interested in computers and anything mechanical from day one. I work on projects for a short amount of time, and then I usually move on. My current project is a Discord music bot, [Acoustic](https://github.com/acousticly). I've also made some custom Elixir + Java libraries to improve WebSocket response time & provide cleaner sound to client devices.
 <details>
   <summary>What I'm listening to.</summary>
   <a href=https://spotify-github-profile.vercel.app/api/view?uid=eszli7hrnvlnbd287ncscgu3q&redirect=true">
