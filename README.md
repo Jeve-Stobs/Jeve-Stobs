@@ -12,7 +12,7 @@ I'm a relatively new developer, but I have been interested in computers and anyt
   </a>
 </details>
 
-## Info As of *6/6/2021*
+## Info As of *8/3/2021*
 
 - **🔭** I am currently working on [Acoustic](https://github.com/acousticly), a performant Discord application.
 - **🌱** I am really trying to dive deep on [Kotlin](https://kotlinlang.org/) and learn all of its amazing features.
