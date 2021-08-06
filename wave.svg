@@ -1,0 +1,35 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .wave {
+          font-size: 5rem;
+          display: inline-block;
+          -webkit-font-kerning: none;
+          font-kerning: none;
+          transform: translate3d(0px, 0px, 0.1px);
+          transform-origin: 60% 70%;
+          user-select: none;
+          animation: wave-animation 0.5s 9 ease-in-out;
+          animation-play-state: running;
+        }
+
+        /* animation */
+        @keyframes wave-animation {
+
+          0%,
+          100% {
+            -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+          }
+
+          50% {
+            -webkit-transform: rotate(30deg);
+            transform: rotate(30deg);
+          }
+        }
+      </style>
+      <div class="wave">👋</div>
+    </div>
+  </foreignObject>
+</svg>
