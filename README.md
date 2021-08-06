@@ -1,6 +1,6 @@
 <h1>    
   Hi There
-  <img src="wave.svg" width="60" height="60" alt="heyo">
+  <img src="wave.svg" width="40" height="40" alt="heyo">
 </h1>
 Hello! I'm Samuel, a 15 y/o backend/frontend developer who enjoys coding more than life itself.
 
