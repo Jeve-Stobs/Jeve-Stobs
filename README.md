@@ -35,7 +35,7 @@ I'm a relatively new developer, but I have been interested in computers and anyt
 ###### My toolkit 🛠️
 
 - **Backend**: Elixir, Rust, Express, Spring Boot, & NodeJS
-- **Frontend**: React, NextJS, Vue*, SCSS, Bulma, & TailwindCSS
+- **Frontend**: React, NextJS, Vue*, SCSS, & TailwindCSS
 - **Database**: MongoDB, PostgreSQL, MySQL, LevelDB, & SQLite
 
 \* things I'm really still learning
