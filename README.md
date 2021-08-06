@@ -31,6 +31,7 @@ I'm a relatively new developer, but I have been interested in computers and anyt
 - C#   
 - Elixir*
 - Go*
+- Swift*                                                                                                                                             
 
 ###### My toolkit 🛠️
 
