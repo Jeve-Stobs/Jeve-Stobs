@@ -1,6 +1,6 @@
 
-<svg fill="none" viewBox="0 0 120 100" width="120" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="50" height="50">
+<svg fill="none" viewBox="0 0 120 105" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .wave {
@@ -14,8 +14,6 @@
           animation: wave-animation 0.5s 9 ease-in-out;
           animation-play-state: running;
         }
-
-        /* animation */
         @keyframes wave-animation {
 
           0%,
