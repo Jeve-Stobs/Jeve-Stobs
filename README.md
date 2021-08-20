@@ -38,7 +38,7 @@ _in order of my comfort level_
 
 ###### My toolkit 🛠️
 
-- **Backend**: Elixir, Rust, Express, Spring Boot, & NodeJS
+- **Backend**: Elixir, Rust, Ruby, Spring Boot, & NodeJS
 - **Frontend**: React, NextJS, Vue\*, SCSS, & TailwindCSS
 - **Database**: MongoDB, PostgreSQL, MySQL, LevelDB, & SQLite
 
