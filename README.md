@@ -40,7 +40,7 @@ _in order of my comfort level_
 
 - **Backend**: Elixir, Rust, Ruby, Spring Boot, & NodeJS
 - **Frontend**: React, NextJS, Vue\*, SCSS, & TailwindCSS
-- **Database**: MongoDB, PostgreSQL, MySQL, LevelDB, & SQLite
+- **Database**: MongoDB, PostgreSQL, MySQL, LevelDB, Redis & Scylla
 
 \* things I'm really still learning
 
