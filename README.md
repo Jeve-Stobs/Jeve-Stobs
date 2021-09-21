@@ -26,7 +26,7 @@ I'm a relatively new developer, but I have been interested in computers and anyt
 
 _in order of my comfort level_
 
-- [TypeScript/JavaScript](https://www.typescriptlang.org)
+- [TypeScript / JavaScript](https://www.typescriptlang.org)
 - [Kotlin](https://kotlinlang.org/) / [Java](https://github.com/openjdk/jdk/blob/master/doc/building.md)
 - [Rust](https://www.rust-lang.org/learn/get-started)
 - HTML / CSS (duh) + React, Vue, NextJS, NuxtJS, GatsbyJS (same lang as my blog check it out [here](https://blog.jevestobs.dev)
