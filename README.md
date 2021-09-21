@@ -18,7 +18,7 @@ I'm a relatively new developer, but I have been interested in computers and anyt
 ## Info
 
 - **🔭** I am currently working on [Acoustic](https://github.com/acousticly), a performant Discord application.
-- **🌱** I am really trying to dive deep on [Rust](https://www.rust-lang.org) and learn all of its amazing features.
+- **🌱** I am really trying to dive deep on [Rust](https://www.rust-lang.org/learn/get-started) and learn all of its amazing features.
 
 ### Stuff I work with
 
@@ -28,8 +28,8 @@ _in order of my comfort level_
 
 - [TypeScript/JavaScript](https://www.typescriptlang.org)
 - [Kotlin](https://kotlinlang.org/) / [Java](https://github.com/openjdk/jdk/blob/master/doc/building.md)
-- Rust
-- HTML / CSS
+- [Rust](https://www.rust-lang.org/learn/get-started)
+- HTML / CSS (duh) + React, Vue, NextJS, NuxtJS, GatsbyJS (same lang as my blog check it out [here](https://blog.jevestobs.dev)
 - C++
 - C#
 - Elixir\*
@@ -39,7 +39,7 @@ _in order of my comfort level_
 ###### My toolkit 🛠️
 
 - **Backend**: Elixir, Rust, Ruby, Spring Boot, & NodeJS
-- **Frontend**: React, NextJS, Vue\*, SCSS, & TailwindCSS
+- **Frontend**: React, NextJS, Vue, SCSS, & TailwindCSS
 - **Database**: MongoDB, PostgreSQL, MySQL, LevelDB, Redis & Scylla
 
 \* things I'm really still learning
