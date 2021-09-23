@@ -17,7 +17,7 @@ I'm a relatively new developer, but I have been interested in computers and anyt
 
 ## Info
 
-- **🔭** I am currently working on [**Acoustic**](https://github.com/acousticly): A Discord music & economy bot, ([`top.gg`](https://top.gg/bot/816842865732091924))
+- **🔭** I am currently working on [**Acoustic**](https://github.com/acousticly): A Discord music & economy bot ([`top.gg`](https://top.gg/bot/816842865732091924))
 - **🌱** I am really trying to dive deep on [Rust](https://www.rust-lang.org/learn/get-started) and learn all of its amazing features.
 
 ### Stuff I work with
