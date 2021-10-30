@@ -8,13 +8,6 @@ Hello! I'm Sam, a 16 y/o fullstack developer* who enjoys coding more than life i
 
 I'm a relatively new developer, but I have been interested in computers and anything mechanical from day one. I work on projects for a short amount of time, and then I usually move on. My current project is a Discord music bot, [Acoustic](https://github.com/acousticly).
 
-<details>
-  <summary>Beats I'm jammin' to</summary>
-  <a href=https://spotify-github-profile.vercel.app/api/view?uid=eszli7hrnvlnbd287ncscgu3q&redirect=true">
-    <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=eszli7hrnvlnbd287ncscgu3q&cover_image=false&theme=default">
-  </a>
-</details>
-
 ## Info
 
 - **🔭** I am currently working on [**Acoustic**](https://github.com/acousticly): A Discord music & economy bot ([`top.gg`](https://top.gg/bot/816842865732091924))
