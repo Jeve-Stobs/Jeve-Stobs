@@ -2,15 +2,15 @@
   Hi There
   <img src="wave.svg" width="40" height="40" alt="heyo">
 </h1>
-Hello! I'm Sam, a 16 y/o fullstack developer who enjoys coding more than life itself.
+Hello! I'm Sam, hobbyist developer who enjoys tinkering with electronic. 
 
 ##### About Me
 
-I'm a relatively new developer, but I have been interested in computers and anything mechanical from day one. I work on projects for a short amount of time, and then I usually move on. My current project is a Discord music bot, [Acoustic](https://github.com/acousticly).
+I work on projects for a short amount of time, and then I usually move on. My current project is a music bot, [Acoustic](https://github.com/acousticly).
 
 ## Info
 
-- **🔭** I am currently working on [**Acoustic**](https://github.com/acousticly): A Discord music & economy bot ([`top.gg`](https://top.gg/bot/816842865732091924))
+- **🔭** I am currently working on [**Acoustic**](https://github.com/acousticly): A music & economy bot ([`top.gg`](https://top.gg/bot/816842865732091924))
 - **🌱** I am really trying to dive deep on [Rust](https://www.rust-lang.org/learn/get-started) and learn all of its amazing features.
 
 ### Stuff I work with
