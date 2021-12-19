@@ -26,8 +26,7 @@ _in order of my comfort level_
 - HTML / CSS (duh) + React, Vue, NextJS, NuxtJS, GatsbyJS (same lang as my blog check it out [here](https://blog.jevestobs.dev)
 - C++
 - C#
-- Elixir\*
-- Go\*
+- Elixir
 - Swift\*
 
 ###### My toolkit 🛠️
