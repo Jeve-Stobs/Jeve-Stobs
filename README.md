@@ -22,12 +22,6 @@ I work on projects for a short amount of time and then I usually move on. Curren
 - Elixir
 - Swift\*
 
-###### My toolkit 🛠️
-
-- **Backend**: Elixir, Rust, & NodeJS
-- **Frontend**: React, NextJS, Vue, SCSS, & TailwindCSS
-- **Database**: MongoDB, PostgreSQL, MySQL, LevelDB, Redis & Scylla
-
 \* things I'm still learning
 
 ---
