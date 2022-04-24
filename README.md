@@ -16,7 +16,7 @@ I work on projects for a short amount of time and then I usually move on. Curren
 - [Rust](https://www.rust-lang.org/learn/get-started)
 - [Kotlin](https://kotlinlang.org/) / [Java](https://github.com/openjdk/jdk/blob/master/doc/building.md)
 - Python 
-- HTML / CSS + React, NextJS, GatsbyJS (same lang as my blog check it out [here](https://blog.jevestobs.dev)
+- HTML / CSS + React, NextJS
 - C++
 - Elixir
 - Swift\*
