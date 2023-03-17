@@ -2,13 +2,13 @@
   Hi There
   <img src="wave.svg" width="40" height="40" alt="heyo">
 </h1>
-Hello! I'm Sam, hobbyist developer who enjoys tinkering with electronics. 
+Hello, I'm Sam, a hobbyist developer with a passion for tinkering with electronics.
 
 ##### About Me
 
-I work on projects for a short amount of time and then I usually move on. Currently tinkering with the Discord API and diving deep into rust-lang. Most of my major projects are closed source, but when I finish a project, I usually open source it.
+I tend to work on projects for a short period before moving on to something new. Currently, I'm focused on writing code for robots ⚙️ and creating financial models using AI. While most of my significant projects are closed source, I typically open source them once they're complete.
 
-### Stuff I work with
+### Technologies I work with
 
 ###### Languages
 
@@ -16,13 +16,13 @@ I work on projects for a short amount of time and then I usually move on. Curren
 - [Rust](https://www.rust-lang.org/learn/get-started)
 - [Kotlin](https://kotlinlang.org/) / [Java](https://github.com/openjdk/jdk/blob/master/doc/building.md)
 - Python 
-- HTML / CSS + React, NextJS
+- HTML / CSS + React
 - C++
 - Elixir
-- Swift\*
+- Swift*
 
-\* things I'm still learning
+\* languages I'm still learning
 
 ---
 
-<em>'Chillin in the cloud ☁️</em>
+<em>Chillin in the cloud ☁️</em>
